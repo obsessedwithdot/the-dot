@@ -1,8 +1,0 @@
-{
-  "name": "the-dot",
-  "version": "11.0.0",
-  "private": true,
-  "description": "THE DOT public story platform demo",
-  "scripts": {"start":"node server.js"},
-  "engines": {"node": ">=18"}
-}
