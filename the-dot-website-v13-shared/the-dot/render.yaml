@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: the-dot
+    runtime: node
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: DOT_ADMIN_CODE
+        sync: false
+      - key: TRUST_PROXY
+        value: "1"

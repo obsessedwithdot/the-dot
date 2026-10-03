@@ -1,0 +1,12 @@
+{
+  "name": "the-dot",
+  "version": "13.0.0",
+  "private": true,
+  "description": "THE DOT public shared story platform",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
